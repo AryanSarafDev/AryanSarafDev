@@ -4,16 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=AryanSarafDev&label=Profile%20views&color=7928ca&style=flat-square" alt="AryanSarafDev" />
 </p>
 
-### 🌟 Google Summer of Code 2024
-I was a **GSoC '24 Contributor** for **CCExtractor Development**, where I worked on the **Ultimate Alarm Clock**.
-
-<p align="left">
-  <a href="https://github.com/CCExtractor/ultimate_alarm_clock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CCExtractor&repo=ultimate_alarm_clock&theme=tokyonight" alt="Ultimate Alarm Clock" />
-  </a>
-</p>
-
----
 
 ### 👨‍💻 About Me
 
@@ -33,6 +23,17 @@ I was a **GSoC '24 Contributor** for **CCExtractor Development**, where I worked
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_&_RAG-FF6F61?style=for-the-badge&logo=google-gemini&logoColor=white" />
+</p>
+
+---
+
+### 🌟 Google Summer of Code 2024
+I was a **GSoC '24 Contributor** for **CCExtractor Development**, where I worked on the **Ultimate Alarm Clock**.
+
+<p align="left">
+  <a href="https://github.com/CCExtractor/ultimate_alarm_clock">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CCExtractor&repo=ultimate_alarm_clock&theme=tokyonight" alt="Ultimate Alarm Clock" />
+  </a>
 </p>
 
 ---
