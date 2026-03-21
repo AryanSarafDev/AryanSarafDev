@@ -6,11 +6,11 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Role:** Business Analyst at Epsilon.
-- 🚀 **Focus:** Building scalable backends with **Java (Spring Boot)** and sleek mobile apps with **Flutter**.
-- 🌱 **Learning:** Deepening my knowledge in **Data Structures & Algorithms** and **System Design**.
-- 💞️ **Collaboration:** Open to collaborating on innovative software projects or freelance opportunities.
-- 📍 **Location:** Bengaluru, India.
+- 💼 **Professional:** Business Analyst at **Epsilon** by day; Full-Stack Developer by night.
+- 🤖 **AI & Research:** Currently building and fine-tuning **RAG (Retrieval-Augmented Generation)** systems and working with models like **Mistral**.
+- 📱 **Mobile & Web:** Developing cross-platform experiences using **Flutter** and robust backends with **Spring Boot**.
+- 🛠️ **Current Projects:** Working on a **Cab Booking Application** (Flutter/Laravel) and a **Personal Productivity Tracker**.
+- 📈 **Interests:** Deeply into **Personal Finance**, **Fitness**, and mastering **Data Structures & Algorithms**.
 
 ---
 
@@ -18,15 +18,20 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   
   <br/>
   
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  <br/>
+
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_&_RAG-FF6F61?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -41,6 +46,15 @@
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AryanSarafDev&theme=tokyonight&hide_border=true" alt="AryanSarafDev's GitHub Streak" />
 </p>
+
+---
+
+### ⚡ Hardware & Setup
+
+- 🖥️ **Primary:** Mac Mini (M4, 32GB RAM)
+- 💻 **Laptop:** MSI GF65 10UE
+- 📱 **Mobile Testing:** Poco X5 Pro
+- 💾 **Storage:** Samsung T7 SSD
 
 ---
 
