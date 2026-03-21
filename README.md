@@ -9,8 +9,7 @@
 - 💼 **Professional:** Business Analyst at **Epsilon** by day; Full-Stack Developer by night.
 - 🤖 **AI & Research:** Currently building and fine-tuning **RAG (Retrieval-Augmented Generation)** systems and working with models like **Mistral**.
 - 📱 **Mobile & Web:** Developing cross-platform experiences using **Flutter** and robust backends with **Spring Boot**.
-- 🛠️ **Current Projects:** Working on a **Cab Booking Application** (Flutter/Laravel) and a **Personal Productivity Tracker**.
-- 📈 **Interests:** Deeply into **Personal Finance**, **Fitness**, and mastering **Data Structures & Algorithms**.
+- 📈 **Interests:** Deeply into **Artificial Intelligence**, **Personal Finance**, **Fitness**, and mastering **Data Structures & Algorithms**.
 
 ---
 
