@@ -17,6 +17,32 @@
 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<h2 align="center"> 🌍 Open Source Journey </h2>
+
+<p align="center">
+  <a href="YOUR_GSOC_PROJECT_LINK">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8F73S1GJBOzavG9zSAr4sHhK1yFsf2TZHmQ&s" alt="Google Summer of Code" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ccextractor.org/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7928ca&center=true&vCenter=true&width=600&lines=Google+Summer+of+Code+2024;Contributor+%40+CCExtractor;Building+Better+Open+Source" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Organization-CCExtractor-7928ca?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Open_Source_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+<p align="center">
+  <i>Engineered and optimized core features for Ultimate Alarm Clock II during GSoC '24.</i>
+</p>
+<br>
+<p align="center">
+Project Link - https://github.com/CCExtractor/ultimate_alarm_clock
+</p>
+
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=AryanSarafDev&theme=apprentice&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AryanSarafDev&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
