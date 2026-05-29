@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Role-Open_Source_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 <p align="center">
-  <i>Engineered and optimized core features for Ultimate Alarm Clock II during GSoC '24.</i>
+  <i>Engineered and optimized core features for - Ultimate Alarm Clock II during GSoC '24.</i>
 </p>
 <br>
 <p align="center">
