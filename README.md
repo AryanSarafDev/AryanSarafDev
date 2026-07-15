@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928ca&height=280&section=header&text=Aryan%20Saraf&fontSize=85&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Architect%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20Business%20Analyst&descAlignY=60&descSize=22&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928ca&height=280&section=header&text=Aryan%20Saraf&fontSize=85&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Architect%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20Business%20Systems%20Analyst&descAlignY=60&descSize=22&fontColor=ffffff" width="100%" />
 </p>
 
 # Hi there, I'm Aryan Saraf! 👋
